@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const topColor = `rgb(${0 + (scrollPercent * 25)}, ${0 + (scrollPercent * 210)}, ${139 + (scrollPercent * 116)})`; // Dark blue
 
         const textColor = scrollPercent < 0.5 ? '#ccc' : '#555'; 
-        const textDescription= scrollPercent < 0.5 ? 'down' : 'up';
+        const textDescription= scrollPercent < 0.5 ? 'up' : 'down';
 
         // Calculate star visibility
         const starOpacity = Math.min(1, 1 - scrollPercent * 2); 
