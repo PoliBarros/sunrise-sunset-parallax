@@ -2,6 +2,9 @@
 
 This project showcases a smooth parallax effect that simulates a sunrise and sunset animation as you scroll. The animation features a dynamic sky color, a rising and setting sun, and fading stars, all created using pure CSS and JavaScript.
 
+Check the result here: 
+[https://polibarros.github.io/sunrise-sunset-parallax/](Sunrise/Sunset Parallax)
+
 
 ## 🛠️ Technologies Used
 - HTML: For the basic structure of the project.
